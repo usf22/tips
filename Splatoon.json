@@ -1,14 +1,14 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -192,13 +192,13 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Splatoon 3 Guide - Tips and Hints",
+            "img1" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/splatoon-3-logo.jpg?q=50&fit=contain&w=1500&h=&dpr=1.5",
+            "img2" : "https://assets.gamepur.com/wp-content/uploads/2022/08/28132910/Splatoon-3-Turf-War-1.jpg",
+            "part1" : "If, like us, you headed into the game's first Splatfest and quickly found that you are somewhat out of your depth in the world of ink, squids, and splats, then have no fear. In the guide below we've laid down all of the tips and tricks that you need to become a splat-champion.",
+            "part2" : "We have broken up our information across three pages into General Tips and Advice for the game, followed by more specific tips for Anarchy Battles and Salmon Run modes on pages two and three respectively.\n \n Without further ado, let's get this party splatted!"
         },
         {
             "url" : "",
