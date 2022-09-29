@@ -1,14 +1,14 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -192,13 +192,13 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Pro Tips For Genshin Impact You Need To Know",
+            "img1" : "https://i.pcmag.com/imagery/articles/069vNVRMmi7WUFzobR6L02A-5..v1634570393.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Tips-Genshin-Impact-feature.jpg?q=50&fit=contain&w=960&h=500&dpr=1.5",
+            "part1" : "Genshin Impact is a game players could lose themselves in for weeks, so here are a few tips to help make the experience more straightforward.\n \n Genshin Impact is technically a mobile game, but there's a lot more to it than that. More so than any other mobile game we've played, Genshin Impact is overflowing with content. There's tons of depth to its systems/combat, a vast amount of things players can do at any one point, and it even has the developers asking fans for their input,",
+            "part2" : "The Best (& Worst) Open-World Games Of 2019, According To Metacritic \n \n They can grind Domains, hunt down chests, play with friends, climb the Spiral Abyss, follow side/main quests, cook, mine, or just purely explore. It can be a lot at first, so here are some tips we've discovered 30+ Adventure Ranks into the game that we wish we knew way back at the start. \n \n Updated on September 3rd, 2021, by Scott Vengel: Since the release of Inazuma back in update 2.0, and the more recent release of Watatsumi and Seirai island in update 2.1, Genshin Impact has expanded considerably. As such, there are plenty of difficulties that players will face as they travel through new and old regions of the game. From tricky slopes and edges to new challenging bosses, the game continues to challenge new players looking to learn the ropes. As such, this list will be expanded to add a few additional tips so that players can have an easier time in both exploring and combat."
         },
         {
             "url" : "",
