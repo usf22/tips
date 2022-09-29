@@ -202,156 +202,139 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "Mark Shrines And Oculi As They're Found",
+            "img1" : "https://i.pcmag.com/imagery/articles/069vNVRMmi7WUFzobR6L02A-1..v1634570393.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Mark-As-You-Find-Stuff.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "The way the collectibles work in Genshin Impact can be a tad frustrating. Chests are abundant, so there's really no need to mark them (most of the time), but Oculi are finite, and so are Shrines of Depths. The Oculi are found literally everywhere and are comparable to Korok Seeds from Breath of the Wild in that respect.",
+            "part2" : "Only thing is, it isn't marked on the map whenever a Shrine or Oculi is found, and that becomes a huge problem later when players have to backtrack in hopes of finding the one they missed out of 200+. So, seriously, Mark Shrines and Oculi as you find them with the Map Pin system."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Some Character Abilities Can Be Used Outside Of Battle",
+            "img1" : "https://cdn-offer-photos.zeusx.com/bce8be08-be7b-4c3b-b9d0-6fbfa83b578f.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/genshin-keqing-animation-burst-Cropped.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "Elemental bursts and skills make up the fundamental basis of combat in Genshin Impact. However, players shouldn't feel as though combat is the only use of a character's talents.",
+            "part2" : "There are plenty of characters in the game that can use their skills for both exploration and puzzle-solving. For example, Keqing's elemental skill can be used to teleport to hard-to-get-to places. Additionally, Beidou can use the Electro shield from her skill to solve lightning strike probe puzzles in Inazuma."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Local Specialties Can Also Be Bought",
+            "img1" : "https://i.pcmag.com/imagery/articles/069vNVRMmi7WUFzobR6L02A-10..v1634570394.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/genshin-flora-stand-Cropped.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "When it comes to character ascension, Mondstadt and Liyue's local specialties can often pose a problem to new characters. That much was seen during the release of Inazuma, as players hadn't had the opportunity to collect the specialties before the release of new characters.",
+            "part2" : "RELATED: \n\n Genshin Impact: Every Monstadt Local Specialty \n \n Nonetheless, though collecting from the open world is more cost-efficient, there is a way to slightly increase local specialty supply during a shortage. In each nation, many of the local specialties can be bought from people like Flora for Mondstadt plants, and Shitou for Liyue ores."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Character Height Matters",
+            "img1" : "https://i.redd.it/u0c5jxeew1g61.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/genshin-diluc-zhongli-split.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "Exploring can be a tricky process in Genshin Impact, especially when restrained behind a quickly-consumed stamina reserve. Climbing mountains can often lead to falling, swimming to drowning, the list goes on.",
+            "part2" : "However, what many players don't realize at first, is that character height actually influences gameplay. Taller characters, like Diluc and Zhongli, have the advantage of longer stride length and vertical reach. As such, these types of characters can climb and move at a faster rate. On the other hand, smaller characters take up less space, making them ideal for maneuvering through obstacles and tight spaces."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Keep An Eye Out For The Red Notification Icon",
+            "img1" : "https://staticg.sportskeeda.com/editor/2022/06/59ef8-16554072101875-1920.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Red-Exclamation.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "Genshin Impact is a Gacha game no doubt, with the most obvious tell being the Wish system where players roll the odds to see if they'll unlock a 5-star character/weapon. Of course, people can throw money at this game and roll as many times as they want, but there is a pretty well-developed in-game loop for getting Primogems (the currency for wishing) without spending a dime.",
+            "part2" : "There are just so many different ways to earn Primogems, and most if not all of them are redeemed by following that little red exclamation point in your menu. Whether it's Achievements, the Mail pop-up message, Journal Rewards, or more, it's just a good idea to always check whenever that important message notification icon pops up."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Elemental Bursts Can Be Used To Dodge Damage",
+            "img1" : "https://img.gurugamer.com/resize/740x-/2021/12/21/diluc-1024x576-74e9.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/genshin-diluc-burst-animation-Cropped.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "As mentioned before, Genshin Impact has a small stamina modifier that can make moving a little bit more difficult. Coupled with fighting large groups of difficult opponents, dodging all attacks in Genshin Impact can be difficult, to say the least.",
+            "part2" : "However, when dodging isn't possible, players can utilize the peculiarities of their elemental bursts to dodge some damage. Because these attacks feature an animation for five-star characters, the damage is nullified for a small period of time. Therefore, should the player notice a particularly high-damaging attack, they can avoid the entirety of damage by using a carefully timed burst from characters like Diluc, doing damage in the meantime."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Holding Sprint Isn't Always Smart",
+            "img1" : "https://upload-os-bbs.hoyolab.com/upload/2020/11/15/43342396/1871d1c5f7b4b9dc0859b4818bb3b3c0_5289390614176670154.png?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/genshin-jean-sprint-Cropped.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "A common mistake at the beginning of the game, Genshin Impact players often find themselves holding down the sprint button to get to places faster. However, this process may not be as fast as players anticipate: holding down the sprint button consumes stamina incredibly quickly for most characters.",
+            "part2" : "In moments like these, tapping the sprint button can make to be a lot faster than holding the button down; this process allows stamina to reaccumulate as the player is running. Additionally, sometimes it's better to just forgo sprinting entirely if gliding is possible, with many characters offering passives that boost gliding. Players should also keep in mind that some characters don't apply to the sprint rule: both Mona and Ayaka benefit from holding down the sprint button."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Always Do The Daily Commissions",
+            "img1" : "https://www.theclick.gg/wp-content/uploads/2022/05/Genshin-Impact-Daily-Commissions-1024x461.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Daily-Commission.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "At Adventure Rank 12, Daily Commissions unlock at the Adventure's Guild. These are your dailies, the quests players only need to do once per 24 hours, and the incentive to at least log on for 20 minutes every single day. And, it works, because the Daily Commissions are honestly very worth the time investment",
+            "part2" : "They give a ton of AR EXP, some Primogems, some Mora, and some other random Artifacts/items as well. And, as we said, there are only four of them and each one takes at most 5 minutes to do with a decent team. So at the very least pop on and knock these out, it'll make the grind that much easier, we promise."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Unlock Important Waypoints, Like Shrines, Early",
+            "img1" : "https://i0.wp.com/playerassist.com/wp-content/uploads/2020/10/genshin-impact-waypoints-fix.jpg?fit=793%2C262&ssl=1",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Big-waypoints.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "There is a lot of teleporting around in Genshin Impact. NPC's will ask the Traveler to go from one side of the map to the other and then right back within the same Quest. And, for players who didn't make an effort to explore the map early, this can turn the experience into a slog by running back and forth a lot.",
+            "part2" : "RELATED: \n \n Best Futuristic Open-World Games According To Metacritic \n \n So, players should do themselves a favor and wander around for a session or two, go around and unlock as many Fast Travel points as possible, especially the Shrines in particular."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Artifacts Differ From Item To Item And Can Be Fed To Other Artifacts",
+            "img1" : "https://www.pockettactics.com/wp-content/uploads/2022/01/Genshin-Impact-artifacts-1.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Artifacts.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "Artifacts are the 'equips' of Genshin Impact, and can massively improve the performance of a certain character based on their effects. The categories are a tad odd, it isn't like the head, chest, arms, waist, and legs system most games use. Instead, it's broken down into Flower of Life, Plume of Death, Sands of Eon, Goblet of Eonothem, and Circlet of Logos. If that sounds overly complex it is, but put simply it's a flower, a feather, a clock/hourglass, a cup, and a headpiece. And, each of them can have a variety of different states, one main one, and up to four sub-stats depending on the item level.",
+            "part2" : "What players should know is that the main stat can change between two different versions of the same item, and the 4 sub-stats are randomized for every 4 artifact levels. So, if an Artifact doesn't have the stat a player would like, simply look for more of that same Artifact and level it up again. It's small, but things like this are what eventually lead to building a super overpowered team."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Content Slows Down Steadily At 25+",
+            "img1" : "https://i.ytimg.com/vi/MEmgaI63fcs/maxresdefault.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/AR-Slowdown.jpg?q=50&fit=crop&w=740&dpr=1.5",
             "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Abyss Spiral Basically Requires Two Well-Leveled Teams",
+            "img1" : "https://i.ytimg.com/vi/l61T-HMEyhc/maxresdefault.jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Spiral-Floor-5.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "At floor 5 and upward of the Spiral Abyss, the game requires the player to set up two 4-character teams instead of one. At this point, each level is broken up into two halves where both teams will be required to clear a room/protect something.",
+            "part2" : "If a team isn't leveled/geared enough to complete their half, the player can't ascend any higher. So while you're drowning in Mora and Experience items in the early game, keep this in mind, and slowly build up eight characters instead of four so that you can get all the amazing rewards the Spiral Abyss offers."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Characters Have Passives That Help In The Open World And In Combat",
+            "img1" : "https://news.codashop.com/ph/wp-content/uploads/sites/5/2021/11/Albedo-1024x446.png",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Talents.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "All characters in this game have one Passive that's unlocked as soon as they're collected, and a few others that will unlock as that character ascends to Phase 2 and so on. A ton of them are negligible like 'the time this character takes on certain Expeditions in Mondstadt is reduced.",
+            "part2" : "RELATED: \n \n Most Annoying Mechanics In Open-World Games \n\n But, there are some that are insanely useful for the open-world exploration sections of the game such as Amber, Venti, Ningguang, Qiqi, Klee, Kaeya, and Beidou. The things these passives do can range from marking Ore on the mini-map (which helps with farming things like White Iron) to reducing the stamina cost of running, gliding, or swimming."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "No Need To Wait To Roll 10 Fates At Once",
+            "img1" : "https://upload-os-bbs.mihoyo.com/upload/2021/04/28/88853539/ff2a5a79fb3a47a0138dd5f12d0543bb_8604493811437344375.jpg?x-oss-process=image/resize,s_740/quality,q_80/auto-orient,0/interlace,1/format,jpg",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Wish-10x.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "The way the Wish system is first explained to players is a tad confusing if not slightly misleading. The game tries to explain it so that players will always want to Roll/Wish 10x as once, because if they do they're guaranteed at least one 4-star Weapon/Character. And, this is true. But, players don't have to only wish 10 fates at a time, they'll get a 4-star at least for every 10 rolls, no matter if it's consecutive or individual.",
+            "part2" : "This Pity system also applies to 5-star rewards in that, if players don't get a 5-star in 89 rolls, they 100% will on the 90. Additionally, if players get a 4-star somewhere before their 10th roll, the count restarts. Don't be like one of those players who spends thousands just for one character."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Switch Constantly Between Elements And Characters",
+            "img1" : "https://external-preview.redd.it/pG5aMA0s9iXc0yAYDGXlTg8Md2tiKCMROHWyHvSZbw8.png?width=640&crop=smart&auto=webp&s=bd07011950389b65df93c96ba68ba120fe3e8239",
+            "img2" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/10/Switch-Constantly.jpg?q=50&fit=crop&w=740&dpr=1.5",
+            "part1" : "Pay attention to the elements and switch characters constantly. Genshin Impact is not a game where one character is played and the other 3 slots are ignored, it just doesn't work that way.",
+            "part2" : "A majority of the damage in combat comes from combining different elements to create different reactions such as Swirl, Crystalize, Frozen, Melt, or Overloaded. Players need to 'diversify their team's elements even slightly and get accustomed to switching between their team of four pretty constantly."
         }
+       
     ]
 }
