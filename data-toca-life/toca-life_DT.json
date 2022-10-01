@@ -8,15 +8,15 @@
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
 
-            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban" : "ca-app-pub-5651478847696199/8632491570",
+            "admob_native" : "ca-app-pub-5651478847696199/7328230330",
+            "admob_int" : "ca-app-pub-5651478847696199/8651289989",
             
             "yandex_ban" : "R-M-1820435-1",
             "yandex_native" : "R-M-1820435-2",
