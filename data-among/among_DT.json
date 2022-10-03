@@ -202,16 +202,70 @@
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "The Skeld map: the map to start with",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/the-skeld.jpg",
+            "img2" : "",
+            "part1" : "Amongst the Among Us maps, The Skeld is often the one used to introduce new players to the game. It allows you to quickly understand the different game mechanics. It is also difficult to get lost in this closed circle map where you can easily move from one room to another.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "The Skeld's vents and camera",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/cam-vent-theskeld.jpg",
+            "img2" : "",
+            "part1" : "The Among Us maps are full of ventilation shafts that allow you to move quickly. However, you have to be careful on The Skeld since entering or leaving a vent triggers an animation that can be seen from a distance. Moreover, the connections remain relatively limited. There are 4 main circuits and only the two central ones (Security-MedBay-Electricity and Cafeteria-Admin-O²) are really usable for fast rotations. The two lateral circuits (Reactor and Navigation) do not allow you to go very far and are more dangerous to use. You can hide in them, but above all you can get stuck in them.",
+            "part2" : "The cameras also provide a lot of information about The Skeld. Four areas can be seen at all times and simultaneously. From the security post, great care is usually taken to control the entrances and exits of MedBay to catch windy impostors while protecting against possible vent-kill."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "The Skeld's skills and sabotage",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/the-skeld-cam.jpg",
+            "img2" : "",
+            "part1" : "There are several very powerful skills on The Skeld. They will greatly facilitate your life as an investigator. It is therefore necessary to learn how to master them in order to quickly progress in level. \n \n - Cameras: which allow you to play Big Brother as explained above.\n The Administration Table: which is located just below the cafeteria. You can follow the progress of other players in real time and easily see the wind users.",
+            "part2" : "On this map, there are the classic Light and Communications sabotages that hinder the progress of the crewmates. A good impostor can also sabotage other strategic locations.\n \n -Reactor sabotage: located on the left of the map, this sabotage allows you to win if it is not repaired. As both repair locations are in the same room, there is a great possibility of a double kill.\n -Sabotage 0²: A sabotage that also allows you to win if no one takes care of it. It also has the advantage of separating the players who have to repair in the O² room, but also in the administration room.\n - Door sabotage: This very useful sabotage saves time. The gain is all the more important as on The Skeld, the doors cannot be opened manually."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Polus map: a very free map",
+            "img1" : "https://www.breakflip.com/uploads2/Azilliz/2020/Septembre/Jeux/cartes-among-us.png",
+            "img2" : "",
+            "part1" : "For a very long time, Polus was the biggest of the Among Us maps. Its status has been downgraded since the release of Airship, but it still has a lot of possibilities. This is not only due to its large size, but also to its layout. There are closed buildings and many outdoor spaces.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Ventilation and camera of Polus",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/polus-vent-cam.jpg",
+            "img2" : "",
+            "part1" : "The vents on Polus are very effective and discreet. There is no animation of entry or exit, which reduces the risk of being caught. The Labo-Admin wind network is probably the most useful as it allows you to quickly go from one diagonal to another to build a solid alibi after killing someone.",
+            "part2" : "The cameras on Polus are a bit tricky. You can only see one area at a time and you have to switch quickly to get a more global view of the map. Those who stay on the same camera for too long can also easily be caught in the back by an imposter."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Polus skills and sabotage",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/vitals-polus.jpg",
+            "img2" : "",
+            "part1" : "To compensate for the large size of Polus, the developers have provided a whole host of skills that aid the investigation. \n \n - Cameras: limited, but still useful.\n The administration table: which does not spot people and bodies outside the buildings!\n Vital signals: a small feature of the card which is located in the office. These signals make it possible to know in real time who is alive and who is dead.\n ",
+            "part2" : "As usual, you can sabotage the light or the communications. But you can also ruin the lives of the crewmates with sabotages specific to this map.\n\n - Seismic stabilisers: crewmates must pay attention to this warning despite its long delay. If no one takes care of it, they will be defeated. As the two stabilisers are not in the same place, this sabotage also separates the survivors into two groups.\n - Doors: On this map, doors can be opened manually, but remain closed for the duration if no one opens them. "
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Mira HQ map: the most technical map?",
+            "img1" : "https://www.pockettactics.com/wp-content/uploads/2021/02/among-us-maps-mira-hq.jpg",
+            "img2" : "",
+            "part1" : "Amongst the Among Us maps, Mira HQ is probably the least popular... Relatively small, it is also very technical and can quickly become a hell for novice players.",
+            "part2" : ""
         },
         {
             "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
+            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
@@ -219,139 +273,50 @@
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Mira HQ Ventilations and Camera",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/mira-hq-vent.jpg",
+            "img2" : "",
+            "part1" : "One of the features of Mira HQ is the wind. There are winds all over the map and the entire network is connected! So you can potentially move wherever you want and whenever you want. The only problem is that, like in The Skeld, the air vent moves when a player enters or leaves.",
+            "part2" : "As far as the cameras are concerned, there's not much to say... for the simple reason that Mira HQ is the only card without a security area!"
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Mira HQ skills and sabotage",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/doorlog.jpg",
+            "img2" : "",
+            "part1" : "Mira HQ is definitely a very special map, as it features a unique skill that does not exist on other Among Us maps: sensors.\n \n - Sensors: these are located at the central Y and allow you to see who has passed through. This allows us to trace the players to see if they are in the North, South-West or South-East. As you have to pass through the Y, those who cannot be traced must have used winds.\n - The administration table: always on the job.",
+            "part2" : "In addition to the usual sabotages, the astronauts must pay attention to two special sabotages to avoid losing the game.\n \n - The reactors: they are located in the same room to the left of the laboratory, beware of the double kill.\n Oxygen: it must be repaired in two different places, on opposite sides of the map. Ideal to separate the players."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Airship map: a huge map!",
+            "img1" : "https://www.breakflip.com/uploads/606593a4cf2a4-carte-complete-airship-among-us.jpg",
+            "img2" : "",
+            "part1" : "Airship is the latest map released by Innersloth and there is still a lot to learn about it. The first thing that shocks is its disproportionate size.",
+            "part2" : ""
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Ventilations and camera of The Airship",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/airship-plan.jpg",
+            "img2" : "",
+            "part1" : "The Airship is the largest of the Among Us maps. To save time, the winds are very valuable as you can quickly move from one part of the ship to another. However, some areas are not very accessible (Meeting room and Security) and you will have to go there on foot. As with Mira HQ and The Skeld, pay attention to the visual animation when entering or exiting a wind.",
+            "part2" : "The cameras on The Airship are like the ones in Polus. There are several of them, but you can't watch them all at the same time. Good players will look out for suspicious movements and be able to assess astronauts who rotate too quickly. Also, with such a large map it is easy to see who is overthinking and not doing any missions!"
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Skills and sabotage of The Airship",
+            "img1" : "https://www.jeumobi.com/wp-content/uploads/2021/04/admin-airship.jpg",
+            "img2" : "",
+            "part1" : "The skills are well known on Airship. As the map is large, it is sometimes difficult to find the corpses.\n \n - The cameras\n -The administration table\n Vital points\n\n The usefulness of these skills has been discussed previously and if you are looking for more details you can always consult our Among Us beginner's guide.",
+            "part2" : "In terms of sabotage, The Airship introduces new hazards in addition to the usual Lights sabotage and Communications sabotage. The map is also very large, so there are several places to fix the problem.\n \n - Crash course: a sabotage that can win you more than one game! The slightest lack of coordination will doom the crewmates.\n Doors: they can be opened manually by passing a card at the right speed. Ideal for saving time and slowing down the progress of other players.\n \n This is the end of this guide to Among Us maps. Wind, cameras, sabotage and skills should now have no secrets for you. All you have to do now is put it all into practice to win as many games as possible. 😃 💪"
         }
+       
     ]
 }
