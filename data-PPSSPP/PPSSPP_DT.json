@@ -1,15 +1,15 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
-            "activate_steps" : "false",
+            "activate_ads" : "false",
+            "activate_steps" : "true",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
@@ -192,58 +192,58 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Best Settings For PPSSPP On Android (100% Working) in 2022",
+            "img1" : "https://techviral.net/wp-content/uploads/2019/05/PSP-Games.jpg",
+            "img2" : "",
+            "part1" : "Let’s admit that we all love to play games on our smartphones. Android smartphones nowadays are more powerful than desktop computers. It can easily run games like PUBG Mobile, Fortnite, etc., that we used to play on desktop computers. \n \n Do you know that your Android device also runs PSP games? Yes, you read that right! Your Android device can run PSP games through an emulator. Like Android emulators for desktops, a PSP emulator for Android does exist, and it can easily run PSP games.",
+            "part2" : "One such PSP emulator is PPSSPP, the best PSP emulator app on the Google Play Store. So, let’s explore more about the PPSSPP PSP emulator for Android.\n \n Below, we have shared some of the best PPSSPP settings that could help you fix slow gaming, graphics glitches, and frame drops on a PPSSPP emulator."
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "PPSSPP – PSP emulator",
+            "img1" : "https://apkmodhub.in/wp-content/uploads/2020/05/PPSSPP-Gold-2.png",
+            "img2" : "",
+            "part1" : "To run PSP Games on Android, we need to download and install PPSSPP – PSP emulator. PPSSPP – PSP emulator is the best PSP emulator app available on the Google Play Store. The app emulates PSP games to run on Android devices. Not just that, but the app is also powerful enough to run games at their regular speed.",
+            "part2" : ""
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How To Use PPSSPP On Android?",
+            "img1" : "https://techviral.net/wp-content/uploads/2018/11/PPSSPP-1.jpg",
+            "img2" : "",
+            "part1" : "Installing and using PPSSPP on Android is a rather easy process. First of all, download PPSSPP on your Android smartphone and install it. Open the App and locate the ISO file from the ‘Game’ Section.",
+            "part2" : "You can enjoy any game on your Android through the PPSSPP emulator, but your device must have enough gigs of RAM and a powerful processor. You can follow our guide on How To Play PSP Games On Android for an in-depth tutorial. \n \n Furthermore, the PPSSPP emulator for Android allows users to alter Graphics, Controls, Sounds, and other settings. These settings can completely change the gaming experience. Below are some of the best settings for PPSSPP on Android."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Best Graphics Settings",
+            "img1" : "https://techviral.net/wp-content/uploads/2018/11/Graphics-Settings-1.jpg",
+            "img2" : "https://techviral.net/wp-content/uploads/2018/11/Graphics-Settings-2.jpg",
+            "part1" : "To make the most out of the PPSSPP Graphics settings, you need to change the Backend from OpenGL to Vulkan. Next, under the Framework Control, you need to turn off the ‘frameskipping’\n\nNext, unselect the Auto-Frameskip and enable the ‘Prevent FPS from skipping 60’. After that, set the Alternative speed to ‘Unlimited’.",
+            "part2" : "Now you need to move to the Performance Settings. Under the Performance settings, you need to test the 2x Rendering Resolution and 1X rendering resolution to find out which performs best on your device.\n\n Make sure to enable the Hardware transform, Software skinning, Mipmapping, Lazy texture caching, and Vertex Cache under the Performance settings."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Best Audio Settings",
+            "img1" : "https://i.imgur.com/aiFS2hQ.jpg",
+            "img2" : "",
+            "part1" : "Like the graphics, you can also make a few changes to the Audio. However, there’s not much you can do with the Audio settings. We suggest you disable the audio while playing games because it can cause a few frame drops.",
+            "part2" : ""
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Developer Settings",
+            "img1" : "https://techviral.net/wp-content/uploads/2018/11/Audio-Settings-2.jpg",
+            "img2" : "",
+            "part1" : "Well, PPSSPP also allows users to control a few developer options. For instance, you can select Dynarec (JIT) under CPU Core to enhance gaming performance. The settings work fine on almost every game.",
+            "part2" : "Under the System settings, enable the ‘Fast Memory’ and ‘I/O on the thread’. Now set the I/O timing method to 'Simulate UMD delays'.\n\n After making all those changes, load and play the game, and you will surely get the best gaming experience. I hope this article helped you! Please share it with your friends also. If you know of any other PPSSPP tweaks, let us know in the comment box below."
         },
         {
             "url" : "https://www.ted.com/",
